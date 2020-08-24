@@ -8,3 +8,8 @@ Commented python script for lane detection for both images and videos.
 
 ### writeup.md 
 Detailed description of all the pipeline that images and videos have to go through in order to correctly detectt the lane lines.
+
+# Demo 
+
+![](./test_videos_output/solidWhiteRight.gif)
+![](./test_videos_output/solidYellowLeft.gif)
