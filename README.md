@@ -1,4 +1,4 @@
-# Lane lines detector
+# Lane Lines Detector Project
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ## Overview
 The goal of the project is to detect the lane lines of a road from a video recorded from a camera mounted on top of a moving car.
